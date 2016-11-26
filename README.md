@@ -1,4 +1,5 @@
 # Python - Endless Loop Example
 
-Programming Language : Python 
+Programming Language : Python
+ 
 Subject : Endless Loop

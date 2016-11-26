@@ -1,8 +1,10 @@
 #!/usr/bin/evy python
 # -*- coding:utf-8 -*-
 
-## Python Code Example
-## Sonsuz
+#########################
+## Python Code Example ##
+##     Endless Loop    ##
+#########################
 
 def function():
     value = 0.1
